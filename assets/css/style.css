@@ -1,0 +1,65 @@
+body {
+    font-family: 'Permanent Marker', cursive;
+  }
+
+.header {
+    background-image: url("../imgs/titulo.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 350px;
+    margin: 2% 2% 2% 2%;
+    color:darkslategrey;
+    padding: 1px 0 0 20px;
+  }
+
+  body {
+    background-color:antiquewhite;
+  }
+
+  header {
+    background-image: url('/assets/img/banner.jpeg');
+    background-size: cover;
+    background-position: center; 
+    color: white;
+    padding: 150px 30px 10px 30px;
+    text-shadow: 2px 2px #000;
+    margin-bottom: 30px;
+  }
+
+  .container {
+    width: 1300px;
+    margin: 0 auto;
+  }
+  
+  .agencia {
+    background-color:burlywood;
+    margin-bottom: 20px;
+    display: inline-flex;
+    width: 100%;
+    margin-left: 30px;
+    font-size: 22px;
+    border-radius: 5px;
+    color:darkslategrey;
+  }
+
+  b {
+    color:brown;
+  }
+
+  .agencia > img {
+    width: 200px;
+    height: 200px;
+    margin-right: 20px;
+    background-color:white;
+    padding: 1%;
+  }
+
+  footer {
+    background-color:burlywood;
+    color: darkslategrey;
+    padding: 12px;
+    text-align: center;
+    font-size: 22px;
+  }
+  
